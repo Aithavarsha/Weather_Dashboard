@@ -6,7 +6,7 @@
 }
 body {
   font-family: 'Roboto', sans-serif;
-  background-image: url("bg");
+  background-image: url("BG.jpg");
   min-height: 92vh;
   overflow: auto;
   background-repeat: no-repeat;
